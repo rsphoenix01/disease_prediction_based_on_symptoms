@@ -1,0 +1,1 @@
+# disease_prediction_based_on_symptoms
